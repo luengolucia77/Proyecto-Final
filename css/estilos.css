@@ -11684,7 +11684,6 @@ body {
   .main {
     display: -ms-grid;
     display: grid;
-        grid-template-areas: "foto" "texto" "boton" "video";
     -ms-grid-columns: 1fr 1.5fr;
         grid-template-columns: 1fr 1.5fr;
     -ms-grid-rows: 2fr 1.5fr;
